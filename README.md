@@ -39,7 +39,7 @@ This repository contains a collection of useful PowerShell aliases for working w
 1. Clone the repository to your local machine:
 
     ```sh
-    git clone https://github.com/yourusername/PowerShellAliases.git
+    git clone https://github.com/ErradiAbderrahmnan99/PowerShellAliases.git
     ```
 
 2. Navigate to the directory:
